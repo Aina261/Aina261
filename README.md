@@ -10,4 +10,5 @@
 - ⚡ Fun fact: I named my dog 404 because I don't have dog.
 
 
-<a href="https://app.daily.dev/Aina"><img src="https://api.daily.dev/devcards/a17741f68e7e404f8102d657397ef68b.png?r=z82" width="400" alt="Aina's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Aina261/Aina261/blob/master/devcard.svg" width="400"/></a>
+
