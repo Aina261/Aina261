@@ -8,3 +8,6 @@
 
 - 🔭 I’m currently working at [SESAMm](https://www.sesamm.com/) as full stack developer. 
 - ⚡ Fun fact: I named my dog 404 because I don't have dog.
+
+
+<a href="https://app.daily.dev/Aina"><img src="https://api.daily.dev/devcards/a17741f68e7e404f8102d657397ef68b.png?r=z82" width="400" alt="Aina's Dev Card"/></a>
